@@ -1,3 +1,4 @@
+This is an application I created in September 2016 (which is nearly 2 years ago, as of the time I published this to GitHub) which creates a visualisation of all the stars within 12 light years of the sun.
 
 # How to run
 Code is in `plot.py`. Requires Python 3, and `matplotlib`, `pandas` and `numpy`.
