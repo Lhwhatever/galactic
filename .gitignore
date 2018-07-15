@@ -115,4 +115,9 @@ $RECYCLE.BIN/
 *.msp
 
 # Windows shortcuts
-*.lnk
+
+# =========================
+# IDEs
+# =========================
+
+.idea/
